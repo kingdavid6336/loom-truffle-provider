@@ -1414,9 +1414,9 @@ express@^4.14.0:
     vary "~1.1.2"
 
 extend@~3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/extend/-/extend-3.0.1.tgz#a755ea7bc1adfcc5a31ce7e762dbaadc5e636444"
-  integrity sha1-p1Xqe8Gt/MWjHOfnYtuq3F5jZEQ=
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/extend/-/extend-3.0.2.tgz#f8b1136b4071fbd8eb140aff858b1019ec2915fa"
+  integrity sha512-fjquC59cD7CyW6urNXK0FBufkZcoiGG80wTuPujX590cB5Ttln20E2UB4S/WARVqhXffZl2LNgS+gQdPIIim/g==
 
 extsprintf@1.3.0:
   version "1.3.0"
@@ -2054,10 +2054,10 @@ lodash@^4.17.14, lodash@^4.17.15:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
-loom-js@^1.70.0:
-  version "1.70.0"
-  resolved "https://registry.yarnpkg.com/loom-js/-/loom-js-1.70.0.tgz#305daf21246fc7fac293906d8f0fcf3b44220462"
-  integrity sha512-0GCeu1mBPf/V9VyD/vUV+s3mNaJrQFmfA5C2lDg1vcQ0eh2rGv4aUjKmq/xPINJCGd30xbuq217zJ0FKknA/ow==
+loom-js@^1.70.1:
+  version "1.70.1"
+  resolved "https://registry.yarnpkg.com/loom-js/-/loom-js-1.70.1.tgz#e5fdcaef66a41574dc03f6ec7844189e1f4de832"
+  integrity sha512-KU6zl/0gbTzzGjcTGeu68ZR5DLl85j6XY3MkLKzWfMJLxSTF5PW0V/DCeGtZhJY+pV1plSHv/rWBmWzYBj7OiA==
   dependencies:
     "@binance-chain/javascript-sdk" "^2.14.5"
     abi-decoder "^1.2.0"
